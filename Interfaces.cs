@@ -38,7 +38,7 @@ namespace Patterns.Factory
     {
         public IHotDrink Prepare(int amount)
         {
-            System.Console.WriteLine($"Grind some beans, boil water, pour{amount} ml,add cream and sugar for you taste. Enjoy !");
+            System.Console.WriteLine($"Grind some beans, boil water, pour {amount}ml,add cream and sugar for you taste. Enjoy !");
             return new Coffe();
         }
     }

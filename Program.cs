@@ -11,7 +11,7 @@ namespace Patterns_factory
             Console.WriteLine(point);
 
             var machine = new HotDrinkMachine();
-            var drink = machine.MakedRink(HotDrinkMachine.Drinks.Coffe,100);
+            var drink = machine.MakedRink();
             drink.Consume();
         }
     }
