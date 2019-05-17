@@ -1,0 +1,11 @@
+C:\Users\ealbaps\Documents\HTML\Patterns-factory\bin\Debug\netcoreapp2.2\Patterns-factory.deps.json
+C:\Users\ealbaps\Documents\HTML\Patterns-factory\bin\Debug\netcoreapp2.2\Patterns-factory.runtimeconfig.json
+C:\Users\ealbaps\Documents\HTML\Patterns-factory\bin\Debug\netcoreapp2.2\Patterns-factory.runtimeconfig.dev.json
+C:\Users\ealbaps\Documents\HTML\Patterns-factory\bin\Debug\netcoreapp2.2\Patterns-factory.dll
+C:\Users\ealbaps\Documents\HTML\Patterns-factory\bin\Debug\netcoreapp2.2\Patterns-factory.pdb
+C:\Users\ealbaps\Documents\HTML\Patterns-factory\obj\Debug\netcoreapp2.2\Patterns-factory.csprojAssemblyReference.cache
+C:\Users\ealbaps\Documents\HTML\Patterns-factory\obj\Debug\netcoreapp2.2\Patterns-factory.csproj.CoreCompileInputs.cache
+C:\Users\ealbaps\Documents\HTML\Patterns-factory\obj\Debug\netcoreapp2.2\Patterns-factory.AssemblyInfoInputs.cache
+C:\Users\ealbaps\Documents\HTML\Patterns-factory\obj\Debug\netcoreapp2.2\Patterns-factory.AssemblyInfo.cs
+C:\Users\ealbaps\Documents\HTML\Patterns-factory\obj\Debug\netcoreapp2.2\Patterns-factory.dll
+C:\Users\ealbaps\Documents\HTML\Patterns-factory\obj\Debug\netcoreapp2.2\Patterns-factory.pdb
